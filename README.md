@@ -12,8 +12,13 @@ https://www.aparat.com/v/2by7z?playlist=10389154
 
 
 Algorithms covered:
+
 1- KNN
+
 2- Linear Regression
+
 3- Decision Tree
+
 4- Random Forest
+
 5- SVM
